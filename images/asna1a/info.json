@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 91,
+    "height" : 133
+  }, {
+    "width" : 181,
+    "height" : 266
+  }, {
+    "width" : 362,
+    "height" : 532
+  }, {
+    "width" : 724,
+    "height" : 1063
+  }, {
+    "width" : 1447,
+    "height" : 2125
+  }, {
+    "width" : 2894,
+    "height" : 4249
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2894,
+  "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna1a",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4249
+}
