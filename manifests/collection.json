@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://giulialembo11.github.io/iiif-workshop/manifests/manifest_asna2.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://giulialembo11.github.io/iiif-workshop/manifests/manifest_asna2_copy.json",
+    "label" : "Manifest for ASNA - level 0 "
   } ]
 }
