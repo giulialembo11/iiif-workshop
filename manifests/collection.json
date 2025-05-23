@@ -1,0 +1,13 @@
+{
+  "id" : "https://giulialembo11.github.io/iiif-workshop/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in giulialembo11/iiif-workshop project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://giulialembo11.github.io/iiif-workshop/manifests/manifest_asna2.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
