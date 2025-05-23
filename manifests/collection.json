@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://giulialembo11.github.io/iiif-workshop/manifests/manifest_asna_L0_copy.json",
     "label" : "Manifest for ASNA - level 0 "
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://giulialembo11.github.io/iiif-workshop/manifests/manifest_asna_L1_copy.json",
+    "label" : "Manifest for ASNA - level 1"
   } ]
 }
