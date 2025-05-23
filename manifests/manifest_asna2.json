@@ -1,0 +1,179 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://giulialembo11.github.io/iiif-workshop/manifests/manifest_asna2.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://11bed153-7ddf-40c2-8ba0-99018d10502e",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f0aba402-5fd8-4480-a542-015309af2cac",
+      "@type" : "sc:Canvas",
+      "label" : "test 2 asna 1",
+      "height" : 5207,
+      "width" : 3794,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6771975e-b1b1-42ca-9571-d1680e1c2275",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5207,
+          "width" : 3794
+        },
+        "on" : "http://f0aba402-5fd8-4480-a542-015309af2cac"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2331ee92-40ff-4a11-896d-ee5013444943",
+      "@type" : "sc:Canvas",
+      "label" : "test 2 asna 1a",
+      "height" : 4249,
+      "width" : 2894,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8da73956-c0b4-41ef-bf4c-8d75fced4dd4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna1a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna1a",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4249,
+          "width" : 2894
+        },
+        "on" : "http://2331ee92-40ff-4a11-896d-ee5013444943"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b716ae73-c691-4ef3-98df-2d593fae4931",
+      "@type" : "sc:Canvas",
+      "label" : "test 2 asna 2",
+      "height" : 3936,
+      "width" : 2823,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ad3fe7de-5bf4-4405-895d-9280a9b8922d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3936,
+          "width" : 2823
+        },
+        "on" : "http://b716ae73-c691-4ef3-98df-2d593fae4931"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://024db00e-76d5-4aa2-bff6-f5577c16594c",
+      "@type" : "sc:Canvas",
+      "label" : "test 2 asna 2a",
+      "height" : 2151,
+      "width" : 1585,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c14f0fd0-b0d9-41f7-b023-6c9a49e35e97",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna2a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna2a",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2151,
+          "width" : 1585
+        },
+        "on" : "http://024db00e-76d5-4aa2-bff6-f5577c16594c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2eefb7c8-ae42-4c32-8122-e57d744e9025",
+      "@type" : "sc:Canvas",
+      "label" : "test 2 asna 3",
+      "height" : 3956,
+      "width" : 2926,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6ba8881d-a0f1-4032-adc3-92ac30b73bbc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3956,
+          "width" : 2926
+        },
+        "on" : "http://2eefb7c8-ae42-4c32-8122-e57d744e9025"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://79bb716e-4181-4615-adce-9e1ee7c27a22",
+      "@type" : "sc:Canvas",
+      "label" : "test 2 asna 3a",
+      "height" : 3603,
+      "width" : 2720,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c034b383-1b83-484e-826f-19dcdceb669e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna3a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giulialembo11.github.io/iiif-workshop/images/asna3a",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3603,
+          "width" : 2720
+        },
+        "on" : "http://79bb716e-4181-4615-adce-9e1ee7c27a22"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
